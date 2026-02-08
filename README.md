@@ -27,6 +27,8 @@ Performance-aware mechanics only
 
 Utility and gameplay depth over raw power
 
+📜 License: CC BY-NC 4.0 — Free to use and remix with credit, non-commercial only.
+
 Links
 
 Minecraft Feedback post: https://feedback.minecraft.net/hc/en-us/community/posts/360009326391-Radium-A-New-Ore-For-The-End-With-Unique-Uses
