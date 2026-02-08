@@ -1,5 +1,5 @@
 This work is licensed under the
-# Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
 You are free to:
 
