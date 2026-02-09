@@ -14,7 +14,7 @@
 </p>
 
 <p>
-  Originally suggested on <strong>Minecraft Feedback</strong> by a friend, this
+  Originally suggested on <strong>Minecraft Feedback</strong>, this
   repository serves as a <strong>design and planning hub</strong> while development
   skills are still in progress.
 </p>
